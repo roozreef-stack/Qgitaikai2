@@ -1,0 +1,207 @@
+{
+  "gameTitle": "キャンパス謎解きウォークラリー",
+  "endAt": "2026-11-30T16:00:00+09:00",
+  "finalMessage": "（ここに最終メッセージの文章）\n改行はJSONの中で \\n と書くと反映されます。",
+  "mapCenter": {
+    "lat": 35.6404,
+    "lng": 139.4035,
+    "zoom": 17
+  },
+  "checkpoints": [
+    {
+      "id": "cp1",
+      "name": "CP1",
+      "puzzle": "（ここにCP1の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ1"
+      ],
+      "lat": 35.6425,
+      "lng": 139.3993,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP1の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち1"
+      ]
+    },
+    {
+      "id": "cp2",
+      "name": "CP2",
+      "puzzle": "（ここにCP2の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ2"
+      ],
+      "lat": 35.6422,
+      "lng": 139.4041,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP2の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち2"
+      ]
+    },
+    {
+      "id": "cp3",
+      "name": "CP3",
+      "puzzle": "（ここにCP3の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ3"
+      ],
+      "lat": 35.6428,
+      "lng": 139.40755,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP3の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち3"
+      ]
+    },
+    {
+      "id": "cp4",
+      "name": "CP4",
+      "puzzle": "（ここにCP4の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ4"
+      ],
+      "lat": 35.6413,
+      "lng": 139.4014,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP4の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち4"
+      ]
+    },
+    {
+      "id": "cp5",
+      "name": "CP5",
+      "puzzle": "（ここにCP5の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ5"
+      ],
+      "lat": 35.641,
+      "lng": 139.4059,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP5の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち5"
+      ]
+    },
+    {
+      "id": "cp6",
+      "name": "CP6",
+      "puzzle": "（ここにCP6の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ6"
+      ],
+      "lat": 35.6415,
+      "lng": 139.4089,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP6の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち6"
+      ]
+    },
+    {
+      "id": "cp7",
+      "name": "CP7",
+      "puzzle": "（ここにCP7の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ7"
+      ],
+      "lat": 35.6402,
+      "lng": 139.39855,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP7の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち7"
+      ]
+    },
+    {
+      "id": "cp8",
+      "name": "CP8",
+      "puzzle": "（ここにCP8の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ8"
+      ],
+      "lat": 35.6403,
+      "lng": 139.4038,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP8の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち8"
+      ]
+    },
+    {
+      "id": "cp9",
+      "name": "CP9",
+      "puzzle": "（ここにCP9の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ9"
+      ],
+      "lat": 35.64,
+      "lng": 139.4071,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP9の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち9"
+      ]
+    },
+    {
+      "id": "cp10",
+      "name": "CP10",
+      "puzzle": "（ここにCP10の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ10"
+      ],
+      "lat": 35.6391,
+      "lng": 139.40065,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP10の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち10"
+      ]
+    },
+    {
+      "id": "cp11",
+      "name": "CP11",
+      "puzzle": "（ここにCP11の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ11"
+      ],
+      "lat": 35.6393,
+      "lng": 139.40515,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP11の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち11"
+      ]
+    },
+    {
+      "id": "cp12",
+      "name": "CP12",
+      "puzzle": "（ここにCP12の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ12"
+      ],
+      "lat": 35.6385,
+      "lng": 139.40845,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP12の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち12"
+      ]
+    },
+    {
+      "id": "cp13",
+      "name": "CP13",
+      "puzzle": "（ここにCP13の場所を当てる謎の文章）",
+      "answer": [
+        "こたえ13"
+      ],
+      "lat": 35.638,
+      "lng": 139.4026,
+      "arrivalRadius": 25,
+      "siteQuestion": "（ここにCP13の現地の問題の文章）",
+      "siteAnswer": [
+        "げんち13"
+      ]
+    }
+  ]
+}
